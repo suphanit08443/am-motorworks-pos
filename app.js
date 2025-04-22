@@ -1,1 +1,0 @@
-console.log('AM MOTORWORKS POS is running');
