@@ -1,0 +1,1 @@
+console.log('AM MOTORWORKS POS System is live');
